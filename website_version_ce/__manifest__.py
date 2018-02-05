@@ -5,7 +5,7 @@
     'name': 'Website Versioning',
     'category': 'Website',
     'summary': 'Allow webpages versions and A/B testing.',
-    'version': '10.0.1.0.0',
+    'version': '11.0.0.0.0',
     'depends': ['website', 'google_account', 'mail'],
     'author': 'Odoo S.A., Clouder SASU, Odoo Community Association (OCA)',
     'license': 'LGPL-3',
